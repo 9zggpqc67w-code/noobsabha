@@ -48,7 +48,7 @@ const heroCarouselImages: HeroCarouselImage[] = [
     city: 'Hamburg',
     landmark: 'Elbphilharmonie & Maritime Innovation Harbor',
     category: 'Northern Tech & Port Metropolis',
-    url: 'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=1200&auto=format&fit=crop',
+    url: '/hamburg.jpg',
     fallbackGradient: 'from-slate-900 via-neutral-900 to-black',
   },
   {
@@ -56,7 +56,7 @@ const heroCarouselImages: HeroCarouselImage[] = [
     city: 'Frankfurt am Main',
     landmark: 'Main River Skyline & Goethe University Campus',
     category: 'European Financial & AI Epicenter',
-    url: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?q=80&w=1200&auto=format&fit=crop',
+    url: '/frankfurt.jpg',
     fallbackGradient: 'from-emerald-950/70 via-neutral-900 to-black',
   },
   {

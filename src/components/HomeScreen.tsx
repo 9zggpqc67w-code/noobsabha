@@ -58,13 +58,13 @@ const germanyHubs = [
     city: 'Frankfurt & Rhine-Main',
     state: 'Hesse',
     highlight: 'Goethe University & European Finance',
-    img: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?q=80&w=1200&auto=format&fit=crop',
+    img: 'frankfurt.jpg',
   },
   {
     city: 'Hamburg',
     state: 'Northern Germany',
     highlight: 'University of Hamburg & Maritime Tech',
-    img: 'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=1200&auto=format&fit=crop',
+    img: '/hamburg.jpg',
   },
 ];
 
